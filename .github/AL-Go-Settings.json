@@ -2,6 +2,7 @@
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
   "templateSha": "0af8feb4cf098ebec44278866877fc9aceff0513",
+  "companyName": "Performance testing_LS",
   "enableCodeCop": true,
   "enableUICop": true,
   "CurrentSchedule": "0 2 * * *",
