@@ -1,0 +1,20 @@
+{
+  "folders": [
+    {
+      "path": "Performance Toolkit LS"
+    },
+    {
+      "path": "Performance Toolkit LS.Test"
+    },
+    {
+      "path": "Performance Toolkit LS.PerformanceTest"
+    },
+    {
+      "path": ".AL-Go"
+    },
+    {
+      "path": ".github"
+    }
+  ],
+  "settings": {}
+}

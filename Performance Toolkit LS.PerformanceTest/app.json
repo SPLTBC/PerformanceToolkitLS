@@ -1,0 +1,45 @@
+{
+  "id": "447236eb-3a61-490d-bf8c-d1539b3b26de",
+  "name": "Performance Toolkit LS.PerformanceTest",
+  "publisher": "StrongPoint",
+  "version": "1.0.0.0",
+  "brief": "Performance Toolkit Samples (W1)",
+  "description": "This extension provides tests that simulate business processes, such as creating sales orders, for the Business Central Performance Toolkit. Developers can use these to test for performance regressions during development.",
+  "platform": "24.0.0.0",
+  "application": "24.0.0.0",
+  "runtime": "13.0",
+  "logo": "",
+  "url": "",
+  "EULA": "",
+  "privacyStatement": "",
+  "help": "",
+  "target": "Cloud",
+  "screenshots": [],
+  "dependencies": [
+    {
+      "id": "75f1590f-55c5-4501-ae63-bada5534e852",
+      "publisher": "Microsoft",
+      "name": "Performance Toolkit",
+      "version": "24.0.0.0"
+    }
+  ],
+  "idRanges": [
+    {
+      "from": 56061,
+      "to": 56090
+    }
+  ],
+  "features": [
+    "TranslationFile",
+    "GenerateCaptions"
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "source": {},
+  "build": {},
+  "internalsVisibleTo": [],
+  "keyVaultUrls": []
+}

@@ -1,0 +1,6 @@
+{
+  "country": "lt",
+  "appFolders": ["Performance Toolkit LS"],
+  "testFolders": ["Performance Toolkit LS.Test"],
+  "bcptTestFolders": ["Performance Toolkit LS.PerformanceTest"]
+}
